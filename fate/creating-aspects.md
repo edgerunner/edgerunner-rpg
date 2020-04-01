@@ -18,7 +18,7 @@ Temporary aspects have a condition that determines how they expire. Some aspects
 
 Consequences are also temporary aspects with stricter rules on their creation and expiration.
 
-The players can also create aspects. They can modify the permanent aspects on their characters or orher contexts they control whenever there is a refresh. They can also modify the permanent aspects of other things they take out.
+The players can also create aspects. They can modify the permanent aspects on their characters or other contexts they control whenever there is a refresh. They can also modify the permanent aspects of other things they take out.
 
 ### Aspect actions
 

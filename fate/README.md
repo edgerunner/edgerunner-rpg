@@ -12,7 +12,9 @@ The referee has three main responsibilities. He manages the flow of fate points,
 
 Edgerunner FATE contains as few rules as possible, but is flexible enough to cover a lot of things in game. The system is a mechanism for facilitating a story, rather than simulating a world. The game mechanisms in Edgerunner only come into play when there is a conflict of interest among all the players including the referee on how they want the story to proceed.
 
+{% hint style="warning" %}
 _Anybody may narrate anything anytime. If everyone agrees, it happens. No need for dice or other game mechanisms._
+{% endhint %}
 
 Of course it is reasonable to offer modifications and discuss a bit to arrive at a story everybody likes, but _if anybody objects, it is time to roll the dice_.
 

@@ -20,7 +20,9 @@ Out of their context, these phrases are probably meaningless, but when put in pe
 * `Cars everywhere` — on a parking lot zone in a map
 * `“Go ahead dude, do it!”` — on another character
 
+{% hint style="info" %}
 A little side note. On this game guide, `aspects are always shown like this`. Wherever you see that, it’s an aspect. And the example in the previous sentence is an actual aspect on this guide.
+{% endhint %}
 
 ### Fate points
 

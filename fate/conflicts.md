@@ -85,7 +85,7 @@ Jade is online as her alternate identity; Nephrite. She is trying to get rid of 
 Nephrite decides to move it out of the way and uses her Deception of 4 against the daemon’s Netrunning of 2. After dice are rolled, she gets 4 shifts. Great. She pushes the daemon four zones out, by tricking it to believe that it is defending the wrong spot. This will give her enough time to make a dash for the data she’s after.
 {% endhint %}
 
-Unless it is a map of metaphorical space, _factions don’t move_ on the map. Instead, they [deploy](http://edgerunner.merttorun.com/the-world/factions/playing#deploy-action) resources on the map.
+Unless it is a map of metaphorical space, _factions don’t move_ on the map. Instead, they [deploy](../the-world/factions/playing.md#deploy-action) resources on the map.
 
 #### Attack
 
